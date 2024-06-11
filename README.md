@@ -26,6 +26,4 @@
 
 <br/>
 
-![linep](https://github.com/JuanCortesRo/JuanCortesRo/assets/131735120/d3e01a99-62e0-42c1-9d99-7ee6ed35ebab)
-![linep](https://github.com/JuanCortesRo/JuanCortesRo/assets/131735120/dc575464-ed1f-4816-ad45-2af77e1d5d43)
-![linep](https://github.com/JuanCortesRo/JuanCortesRo/assets/131735120/c8827675-14d6-4367-867b-41d5610fe7f8)
+![linep](https://github.com/JuanCortesRo/JuanCortesRo/assets/131735120/f4818a7c-3df6-4888-b6a3-b194511188e4)![linep](https://github.com/JuanCortesRo/JuanCortesRo/assets/131735120/084de457-7098-4925-bea6-05a6b74ac940)![linep](https://github.com/JuanCortesRo/JuanCortesRo/assets/131735120/c8827675-14d6-4367-867b-41d5610fe7f8)

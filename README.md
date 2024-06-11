@@ -24,4 +24,8 @@
   </a>
 </div>
 
-![linep](https://github.com/JuanCortesRo/JuanCortesRo/assets/131735120/e9f4549a-585d-43dc-a88d-8eccb13c52d0)
+<br/>
+
+![linep](https://github.com/JuanCortesRo/JuanCortesRo/assets/131735120/d3e01a99-62e0-42c1-9d99-7ee6ed35ebab)
+![linep](https://github.com/JuanCortesRo/JuanCortesRo/assets/131735120/dc575464-ed1f-4816-ad45-2af77e1d5d43)
+![linep](https://github.com/JuanCortesRo/JuanCortesRo/assets/131735120/c8827675-14d6-4367-867b-41d5610fe7f8)

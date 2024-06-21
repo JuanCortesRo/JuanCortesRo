@@ -5,8 +5,6 @@
 
 <h3 align="center">A Systems Engineering student from Colombia co</h3>
 
-<h3 align="center">Y el uno donde está</h3>
-
 <br/>
 
 <div align="center">

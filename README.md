@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **JavaFX, Thymeleaf**
+ 🌱 I’m currently learning **about Scala, C and SQl**
 
-⚡ Fun fact **I actually started programming on Roblox ( ͠° ͟ʖ ͡°)**
+⚡ Fun fact **I actually started programming on Roblox (★‿★)**
 
  </div>
 

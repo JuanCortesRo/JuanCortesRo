@@ -11,7 +11,7 @@
  
  🌱 I’m currently learning **about Scala, C and SQL**
 
-⚡ Fun fact **I actually started programming on Roblox (★‿★)**
+⚡ Fun fact **I actually started programming on Roblox**
 
  </div>
 

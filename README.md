@@ -9,9 +9,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **about Scala, C and SQL**
-
-⚡ Fun fact **I actually started programming on Roblox**
+ 🌱 I’m currently learning **about JavaScript, Software Development and other sh#t :D**
 
  </div>
 
